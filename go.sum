@@ -83,8 +83,8 @@ github.com/bugsnag/panicwrap v1.2.0 h1:OzrKrRvXis8qEvOkfcxNcYbOd2O7xXS2nnKMEMABF
 github.com/bugsnag/panicwrap v1.2.0/go.mod h1:D/8v3kj0zr8ZAKg1AQ6crr+5VwKN5eIywRkfhyM/+dE=
 github.com/carolynvs/aferox v0.2.1 h1:TE9vIOI2ElsN0G53Th5PU2ygoJUD9Cw0FOjwItwjKTE=
 github.com/carolynvs/aferox v0.2.1/go.mod h1:5H8FDMsDCbKrVfZTid78zbfp1jVdYDRItuyMK2G1mVM=
-github.com/carolynvs/cnab-go v0.13.4-0.20201230032116-229dd4b057af h1:qDvnCQWrSsK/6kHV5t9CBch7ULxfm8pQ9ayF5YG3vsY=
-github.com/carolynvs/cnab-go v0.13.4-0.20201230032116-229dd4b057af/go.mod h1:vW7N9iN+Jd5P37cQNYS/q1IQLCfakqIFg08BQ8MHZdw=
+github.com/carolynvs/cnab-go v0.13.4-0.20210120215308-1e30156c2b57 h1:QyIVIZW6b9mPrCb0PVV5vulO2X+jFlRHkwQxxAGoshM=
+github.com/carolynvs/cnab-go v0.13.4-0.20210120215308-1e30156c2b57/go.mod h1:Y38/01bKkwnIF7G+YEgzUF0bw2629i8lFVsCVi7qT7s=
 github.com/carolynvs/datetime-printer v0.2.0 h1:Td3FU4YGzx0OogCMhCmLBTUTDPQcq0xlgCeMhAKZmMc=
 github.com/carolynvs/datetime-printer v0.2.0/go.mod h1:p9W8ZUhmQUOVD5kiDuGXwRG65/nTkZWlLylY7s+Qw2k=
 github.com/carolynvs/jsonschema v0.2.1-0.20201229145510-cc593f443fdb h1:c7GTaHPGaDjZ7z0GYHcpml41Xy72pSkaw4xFMPbz3Aw=

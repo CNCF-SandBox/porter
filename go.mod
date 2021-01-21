@@ -3,8 +3,8 @@ module get.porter.sh/porter
 go 1.13
 
 replace (
-	// jsonschema lock
-	github.com/cnabio/cnab-go => github.com/carolynvs/cnab-go v0.13.4-0.20201230032116-229dd4b057af
+	// incluster-kubernetes-driver, also contains fix jsonschema lock
+	github.com/cnabio/cnab-go => github.com/carolynvs/cnab-go v0.13.4-0.20210120215308-1e30156c2b57
 
 	// See https://github.com/containerd/containerd/issues/3031
 	// When I try to just use the require, go is shortening it to v2.7.1+incompatible which then fails to build...
